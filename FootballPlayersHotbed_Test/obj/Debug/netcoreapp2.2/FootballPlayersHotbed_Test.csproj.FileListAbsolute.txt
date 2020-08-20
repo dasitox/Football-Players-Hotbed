@@ -1,0 +1,17 @@
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.deps.json
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.runtimeconfig.json
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.runtimeconfig.dev.json
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.dll
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\obj\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.csproj.CoreCompileInputs.cache
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\obj\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.AssemblyInfoInputs.cache
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\obj\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.AssemblyInfo.cs
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\obj\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.csprojAssemblyReference.cache
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.pdb
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\FootballPlayersHotbed.dll
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\bin\Debug\netcoreapp2.2\FootballPlayersHotbed.pdb
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\obj\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.csproj.CopyComplete
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\obj\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.dll
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed_Test\obj\Debug\netcoreapp2.2\FootballPlayersHotbed_Test.pdb

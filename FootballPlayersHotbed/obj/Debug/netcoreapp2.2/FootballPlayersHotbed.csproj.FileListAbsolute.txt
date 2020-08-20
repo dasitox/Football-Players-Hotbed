@@ -1,0 +1,14 @@
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\bin\Debug\netcoreapp2.2\FootballPlayersHotbed.deps.json
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\bin\Debug\netcoreapp2.2\FootballPlayersHotbed.runtimeconfig.json
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\bin\Debug\netcoreapp2.2\FootballPlayersHotbed.runtimeconfig.dev.json
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\bin\Debug\netcoreapp2.2\FootballPlayersHotbed.dll
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.csproj.CoreCompileInputs.cache
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.RazorAssemblyInfo.cache
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.RazorAssemblyInfo.cs
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.AssemblyInfoInputs.cache
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.AssemblyInfo.cs
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.RazorTargetAssemblyInfo.cache
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\bin\Debug\netcoreapp2.2\FootballPlayersHotbed.pdb
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.dll
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.pdb
+C:\Users\matias\source\repos\FootballPlayersHotbed\FootballPlayersHotbed\obj\Debug\netcoreapp2.2\FootballPlayersHotbed.csprojAssemblyReference.cache
